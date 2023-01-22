@@ -10,6 +10,6 @@ public class Datatype {
         System.out.println(6+6); //12
 
         System.out.println("1111".length()); //4
-        System.out.println(1111.length()); // 에러 
+        // System.out.println(1111.length()); // 에러
     }
 }
