@@ -6,7 +6,5 @@ public class Practice {
         {
             System.out.println("i 값: " + i);
         }  
-
-        
     }
 }
